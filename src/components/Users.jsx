@@ -27,7 +27,7 @@ const Users = () => {
         <div>
             <Header/>
 
-            this is users.{loadedUsers.length}
+            This is users.{loadedUsers.length}
             <div className="overflow-x-auto">
   <table className="table table-zebra">
     {/* head */}
